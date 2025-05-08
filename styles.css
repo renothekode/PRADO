@@ -58,7 +58,7 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/flor.jpg");
+    background-image: url("flor.jpg");
     background-size: cover;
 }
 
